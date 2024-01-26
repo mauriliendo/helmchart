@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mliendoChart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-26T15:51:22.3866437-03:00"
+    description: A Helm chart for Kubernetes (mliendo)
+    digest: b2f5df208905db8cf166f797a2c96a76262cbd294a9338eb119df475490c7232
+    name: mliendoChart
+    type: application
+    urls:
+    - mliendoChart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-26T15:51:22.3800895-03:00"
